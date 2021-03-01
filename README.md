@@ -1,6 +1,8 @@
 # servomotor-controller
 Servomotor control from Processing to Arduino
 
+You need to install controlP5 library into processing!
+
 Key controls:
 - '=' to add new servomotor
 - '-' to remove last servomotor
